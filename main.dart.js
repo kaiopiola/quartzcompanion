@@ -62495,7 +62495,7 @@ A.f0(q,!1).p7(null)},
 $S:0}
 A.lT.prototype={
 Sx(){var s=document.createElement("a")
-s.href="assets/files/quartzcompanion.apk"
+s.href="https://github.com/kaiopiola/quartzcompanion/raw/refs/heads/master/assets/assets/files/quartzcompanion.apk"
 s.setAttribute("download","quartzcompanion.apk")
 s.click()},
 N(a){var s=this,r=null,q=A.Ab(r,A.a1(B.c.a3(178.5),B.i.n()>>>16&255,B.i.n()>>>8&255,B.i.n()&255),B.P9),p=A.Bm(B.ca,new A.hs(A.bE(a,r,t.w).w.a.a>600?"assets/images/background_landscape.png":"assets/images/background.png")),o=A.a1(102,B.i.n()>>>16&255,B.i.n()>>>8&255,B.i.n()&255),n=A.a1(B.c.a3(127.5),B.i.n()>>>16&255,B.i.n()>>>8&255,B.i.n()&255),m=A.bW(20),l=B.c.a3(76.5),k=t.p
